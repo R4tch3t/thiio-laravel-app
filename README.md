@@ -111,7 +111,7 @@ AWS_USE_PATH_STYLE_ENDPOINT=false
 
 VITE_APP_NAME="${APP_NAME}"
 
-#Conection to MySql needed for this project
+#Conection to MySQL needed for this project
 
 DB_CONNECTION=mysql
 
