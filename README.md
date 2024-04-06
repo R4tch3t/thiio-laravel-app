@@ -6,7 +6,9 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
+
 ## Enviroment setup:
+
 APP_NAME=Laravel
 APP_ENV=local
 APP_KEY=base64:dGjuBUvoq/wjzyaKMrB2qlfLPONhOH9HSd7v2MmYE8o=
@@ -29,11 +31,11 @@ LOG_DEPRECATIONS_CHANNEL=null
 LOG_LEVEL=debug
 
 DB_CONNECTION=sqlite
-# DB_HOST=127.0.0.1
-# DB_PORT=3306
-# DB_DATABASE=laravel
-# DB_USERNAME=root
-# DB_PASSWORD=
+#DB_HOST=127.0.0.1
+#DB_PORT=3306
+#DB_DATABASE=laravel
+#DB_USERNAME=root
+#DB_PASSWORD=
 
 SESSION_DRIVER=database
 SESSION_LIFETIME=120
@@ -72,7 +74,7 @@ AWS_USE_PATH_STYLE_ENDPOINT=false
 
 VITE_APP_NAME="${APP_NAME}"
 
-# Conection to MySql needed for this project
+#Conection to MySql needed for this project
 DB_CONNECTION=mysql
 DB_HOST=mysql
 DB_PORT=3306
