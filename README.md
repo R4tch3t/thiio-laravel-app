@@ -111,7 +111,7 @@ DB_USERNAME=root
 DB_PASSWORD=secret_thiio  
 
 ## Steps for run the Laravel App
-You need have previously installed PHP, Composer and Docker in terminal run the next's commands:
+You need have previously installed PHP >= 8, Composer:latest and Docker Desktop version tested: 4.28.0. In terminal run the next's commands:
 
 1. run ```composer install``` for install all plugins neededs 
 2. run ```docker-compose build app``` for build app with docker-compose
