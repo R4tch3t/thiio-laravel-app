@@ -9,16 +9,11 @@
 
 ## Enviroment setup:
 
-APP_NAME=Laravel
-
-APP_ENV=local
-
-APP_KEY=base64:dGjuBUvoq/wjzyaKMrB2qlfLPONhOH9HSd7v2MmYE8o=
-
-APP_DEBUG=true
-
-APP_TIMEZONE=UTC
-
+APP_NAME=Laravel 
+APP_ENV=local 
+APP_KEY=base64:dGjuBUvoq/wjzyaKMrB2qlfLPONhOH9HSd7v2MmYE8o= 
+APP_DEBUG=true 
+APP_TIMEZONE=UTC 
 APP_URL=http://localhost
 
 ##
