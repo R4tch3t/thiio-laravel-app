@@ -21,6 +21,8 @@ APP_TIMEZONE=UTC
 
 APP_URL=http://localhost
 
+##
+
 APP_LOCALE=en
 
 APP_FALLBACK_LOCALE=en
